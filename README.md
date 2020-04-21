@@ -1,2 +1,2 @@
 # COMP9021
-just for learning.
+just for learning and sharing.
